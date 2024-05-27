@@ -1,10 +1,11 @@
-# Javascript Portugol
+# Portugol - desenvolvido em JavaScript
 
-Implementação da linguagem de programação Portugol em Javascript.
+Esta é uma implementação da Linguagem de Programação Portugol em Javascript.
 
-## Instalação com NodeJS
-Instale o programa jspt com: `npm install -g jspt`
+## HTML + JavaScript ( iniciar o index.html )
+Copiar todo o conteúdo deste arquivo zipado no Github e extrair dentro de qualquer subdiretório de sua escolha, feito isto é só dar 2x cliques no arquivo: index.html
 
+# Implantar com NODE.js
 ```bash
 Uso: $ jspt --run [arquivo]
 
